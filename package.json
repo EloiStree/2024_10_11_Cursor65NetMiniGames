@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.cursor65minigames",                              
+  "displayName": "Cursor65 Net Mini Games",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Mini Games to learn C# in a short space with UDP",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_10_11_Cursor65NetMiniGames.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

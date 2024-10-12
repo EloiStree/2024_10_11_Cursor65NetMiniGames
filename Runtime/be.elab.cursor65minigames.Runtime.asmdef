@@ -1,0 +1,16 @@
+{
+    "name": "be.elab.cursor65minigames",
+    "rootNamespace": "",
+    "references": [
+        "be.elab.cursor65"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
